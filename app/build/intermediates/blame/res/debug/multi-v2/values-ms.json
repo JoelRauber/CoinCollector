@@ -1,20 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\jor\\OneDrive - M&S\\Profil\\Desktop\\AppQuest\\CoinCollector\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ms\\values-ms.xml",
+            "outputFile": "C:\\Users\\Simon\\OneDrive\\Dokumente\\Studium\\Files\\AppQuest\\_workspace\\Afraid_Horses_Studio\\CoinCollector\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ms\\values-ms.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\jor\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\cc11c5a791cc1404f9646cb0f514eb4c\\res\\values-ms\\values-ms.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,216,321,429,516,620,731,809,888,968,1080,1189,1286,1395,1498,1605,1764,1865",
-                        "endColumns": "110,104,107,86,103,110,77,78,79,111,108,96,108,102,106,158,100,79",
-                        "endOffsets": "211,316,424,511,615,726,804,883,963,1075,1184,1281,1390,1493,1600,1759,1860,1940"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\jor\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\aa72d4d2573a8cd2549b9aa87f9337fa\\res\\values-ms\\values-ms.xml",
+                    "source": "C:\\Users\\Simon\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\0a2631198dca3db36bfa8521db52a451\\res\\values-ms\\values-ms.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -28,6 +18,16 @@
                         "startOffsets": "1945",
                         "endColumns": "100",
                         "endOffsets": "2041"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Simon\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\17ed6d320c05f6038e6f5b844f2ebcec\\res\\values-ms\\values-ms.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,216,321,429,516,620,731,809,888,968,1080,1189,1286,1395,1498,1605,1764,1865",
+                        "endColumns": "110,104,107,86,103,110,77,78,79,111,108,96,108,102,106,158,100,79",
+                        "endOffsets": "211,316,424,511,615,726,804,883,963,1075,1184,1281,1390,1493,1600,1759,1860,1940"
                     }
                 }
             ]

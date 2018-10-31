@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: org.altbeacon:android-beacon-library-2.15">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/android-beacon-library-2.15.aar/6e2d5995e75aa6c271e3b695a6f665dc/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/android-beacon-library-2.15.aar/6e2d5995e75aa6c271e3b695a6f665dc/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/android-beacon-library-2.15.aar/882adc3206fc436d5bde7cba7b2ac5d8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/android-beacon-library-2.15.aar/882adc3206fc436d5bde7cba7b2ac5d8/res" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.altbeacon/android-beacon-library/2.15/ea3089dd2fe13060abcbf9c8fa9b7780c851ba0a/android-beacon-library-2.15-javadoc.jar!/" />

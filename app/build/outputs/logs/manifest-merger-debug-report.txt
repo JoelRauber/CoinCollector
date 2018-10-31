@@ -1,220 +1,220 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml:2:1-27:12
-MERGED from [io.github.luizgrp.sectionedrecyclerviewadapter:sectionedrecyclerviewadapter:1.2.0] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\sectionedrecyclerviewadapter-1.2.0.aar\2471970d5ace73f9b37e80fd1663bf7a\AndroidManifest.xml:2:1-15:12
-MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\cc11c5a791cc1404f9646cb0f514eb4c\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:cardview-v7:27.1.0] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.0.aar\224f5a64e504faf6645ff79472e278c3\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:percent:27.1.0] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\percent-27.1.0.aar\76bc0aa79668c40bc627e46009210c63\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\c89cd7fa2cc8a9ef4e47f14a22a172db\AndroidManifest.xml:2:1-11:12
-MERGED from [org.altbeacon:android-beacon-library:2.15] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\a1002e9bd5ccdabfe571891e4dcfdaf6\AndroidManifest.xml:2:1-58:12
-MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\9cde6190201db630f6dbdd3557a91c55\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\587aea3f9c93115a43cd694160829387\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\42217a7f8f065e38c4c373b512ae9b1b\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\a502b525c4dcbb7ac813f9f269db0492\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\2dad2e56b513fcf93d0668818f97d163\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\4b9c855aaff09f381ea275ba003cff3c\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.1.0] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\aa72d4d2573a8cd2549b9aa87f9337fa\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\4de236846156b7f39bc215e55039ec9b\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\262875afec2e8e2461f35daeca7121ad\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\1f8428ce19d865a66b8d35289f4049fb\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b798645d316f83137a342aeeb8867ade\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml:2:1-27:12
+ADDED from C:\Users\Simon\OneDrive\Dokumente\Studium\Files\AppQuest\_workspace\Afraid_Horses_Studio\CoinCollector\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Simon\OneDrive\Dokumente\Studium\Files\AppQuest\_workspace\Afraid_Horses_Studio\CoinCollector\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Simon\OneDrive\Dokumente\Studium\Files\AppQuest\_workspace\Afraid_Horses_Studio\CoinCollector\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Simon\OneDrive\Dokumente\Studium\Files\AppQuest\_workspace\Afraid_Horses_Studio\CoinCollector\app\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [io.github.luizgrp.sectionedrecyclerviewadapter:sectionedrecyclerviewadapter:1.2.0] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\sectionedrecyclerviewadapter-1.2.0.aar\577ee8c9857ed4b772972ba44d63c17b\AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\17ed6d320c05f6038e6f5b844f2ebcec\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.0] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.0.aar\039ce376c1ebd0ad32b9c8ec8dd02b81\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:percent:27.1.0] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\percent-27.1.0.aar\e0a8e60d1be96fa6a34a5bc62472139d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\3a3fa02984d601cb5b64597de81569e9\AndroidManifest.xml:2:1-11:12
+MERGED from [org.altbeacon:android-beacon-library:2.15] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\882adc3206fc436d5bde7cba7b2ac5d8\AndroidManifest.xml:2:1-58:12
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\a346e3ee87eaa83d26c2cd733a2118d3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\99f1dea71e4930e9d3d8f795518998db\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\7a699348ba4b8a704b6e14557a0cfdf5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\dd958da9c1c6ecd73f734394fdbfd234\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\4901b3d9cee1f1517e9f186d0a10bcd6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\60c5116b686e7cf180a0a0c31df9af9c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\0a2631198dca3db36bfa8521db52a451\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\6f32357f45d0a375d07da0a74eca1bd2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\88a9e75c721c630ae212cb9f278a73d8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6ea66f24a37478b2bef05e841d7602d0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f35852cd65cef33ad5bce1f0f3bdf59e\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Simon\OneDrive\Dokumente\Studium\Files\AppQuest\_workspace\Afraid_Horses_Studio\CoinCollector\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Simon\OneDrive\Dokumente\Studium\Files\AppQuest\_workspace\Afraid_Horses_Studio\CoinCollector\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Simon\OneDrive\Dokumente\Studium\Files\AppQuest\_workspace\Afraid_Horses_Studio\CoinCollector\app\src\main\AndroidManifest.xml:2:1-27:12
 	package
-		ADDED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml:4:5-44
-		INJECTED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Simon\OneDrive\Dokumente\Studium\Files\AppQuest\_workspace\Afraid_Horses_Studio\CoinCollector\app\src\main\AndroidManifest.xml:4:5-44
+		INJECTED from C:\Users\Simon\OneDrive\Dokumente\Studium\Files\AppQuest\_workspace\Afraid_Horses_Studio\CoinCollector\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Simon\OneDrive\Dokumente\Studium\Files\AppQuest\_workspace\Afraid_Horses_Studio\CoinCollector\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml:2:1-27:12
-		INJECTED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Simon\OneDrive\Dokumente\Studium\Files\AppQuest\_workspace\Afraid_Horses_Studio\CoinCollector\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Simon\OneDrive\Dokumente\Studium\Files\AppQuest\_workspace\Afraid_Horses_Studio\CoinCollector\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\Users\Simon\OneDrive\Dokumente\Studium\Files\AppQuest\_workspace\Afraid_Horses_Studio\CoinCollector\app\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml:3:5-51
+		ADDED from C:\Users\Simon\OneDrive\Dokumente\Studium\Files\AppQuest\_workspace\Afraid_Horses_Studio\CoinCollector\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml:2:1-27:12
-		INJECTED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Simon\OneDrive\Dokumente\Studium\Files\AppQuest\_workspace\Afraid_Horses_Studio\CoinCollector\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Simon\OneDrive\Dokumente\Studium\Files\AppQuest\_workspace\Afraid_Horses_Studio\CoinCollector\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\Users\Simon\OneDrive\Dokumente\Studium\Files\AppQuest\_workspace\Afraid_Horses_Studio\CoinCollector\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\Simon\OneDrive\Dokumente\Studium\Files\AppQuest\_workspace\Afraid_Horses_Studio\CoinCollector\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml:6:5-81
-MERGED from [org.altbeacon:android-beacon-library:2.15] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\a1002e9bd5ccdabfe571891e4dcfdaf6\AndroidManifest.xml:18:5-81
-MERGED from [org.altbeacon:android-beacon-library:2.15] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\a1002e9bd5ccdabfe571891e4dcfdaf6\AndroidManifest.xml:18:5-81
+ADDED from C:\Users\Simon\OneDrive\Dokumente\Studium\Files\AppQuest\_workspace\Afraid_Horses_Studio\CoinCollector\app\src\main\AndroidManifest.xml:6:5-81
+MERGED from [org.altbeacon:android-beacon-library:2.15] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\882adc3206fc436d5bde7cba7b2ac5d8\AndroidManifest.xml:18:5-81
+MERGED from [org.altbeacon:android-beacon-library:2.15] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\882adc3206fc436d5bde7cba7b2ac5d8\AndroidManifest.xml:18:5-81
 	android:name
-		ADDED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml:6:22-78
+		ADDED from C:\Users\Simon\OneDrive\Dokumente\Studium\Files\AppQuest\_workspace\Afraid_Horses_Studio\CoinCollector\app\src\main\AndroidManifest.xml:6:22-78
 application
-ADDED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml:8:5-25:19
-MERGED from [io.github.luizgrp.sectionedrecyclerviewadapter:sectionedrecyclerviewadapter:1.2.0] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\sectionedrecyclerviewadapter-1.2.0.aar\2471970d5ace73f9b37e80fd1663bf7a\AndroidManifest.xml:12:5-13:19
-MERGED from [io.github.luizgrp.sectionedrecyclerviewadapter:sectionedrecyclerviewadapter:1.2.0] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\sectionedrecyclerviewadapter-1.2.0.aar\2471970d5ace73f9b37e80fd1663bf7a\AndroidManifest.xml:12:5-13:19
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\c89cd7fa2cc8a9ef4e47f14a22a172db\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\c89cd7fa2cc8a9ef4e47f14a22a172db\AndroidManifest.xml:9:5-20
-MERGED from [org.altbeacon:android-beacon-library:2.15] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\a1002e9bd5ccdabfe571891e4dcfdaf6\AndroidManifest.xml:20:5-56:19
-MERGED from [org.altbeacon:android-beacon-library:2.15] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\a1002e9bd5ccdabfe571891e4dcfdaf6\AndroidManifest.xml:20:5-56:19
+ADDED from C:\Users\Simon\OneDrive\Dokumente\Studium\Files\AppQuest\_workspace\Afraid_Horses_Studio\CoinCollector\app\src\main\AndroidManifest.xml:8:5-25:19
+MERGED from [io.github.luizgrp.sectionedrecyclerviewadapter:sectionedrecyclerviewadapter:1.2.0] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\sectionedrecyclerviewadapter-1.2.0.aar\577ee8c9857ed4b772972ba44d63c17b\AndroidManifest.xml:12:5-13:19
+MERGED from [io.github.luizgrp.sectionedrecyclerviewadapter:sectionedrecyclerviewadapter:1.2.0] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\sectionedrecyclerviewadapter-1.2.0.aar\577ee8c9857ed4b772972ba44d63c17b\AndroidManifest.xml:12:5-13:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\3a3fa02984d601cb5b64597de81569e9\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\3a3fa02984d601cb5b64597de81569e9\AndroidManifest.xml:9:5-20
+MERGED from [org.altbeacon:android-beacon-library:2.15] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\882adc3206fc436d5bde7cba7b2ac5d8\AndroidManifest.xml:20:5-56:19
+MERGED from [org.altbeacon:android-beacon-library:2.15] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\882adc3206fc436d5bde7cba7b2ac5d8\AndroidManifest.xml:20:5-56:19
 	android:supportsRtl
-		ADDED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml:13:9-35
+		ADDED from C:\Users\Simon\OneDrive\Dokumente\Studium\Files\AppQuest\_workspace\Afraid_Horses_Studio\CoinCollector\app\src\main\AndroidManifest.xml:13:9-35
 	android:label
-		ADDED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml:12:9-41
+		ADDED from C:\Users\Simon\OneDrive\Dokumente\Studium\Files\AppQuest\_workspace\Afraid_Horses_Studio\CoinCollector\app\src\main\AndroidManifest.xml:12:9-41
 	android:fullBackupContent
-		ADDED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml:15:9-42
+		ADDED from C:\Users\Simon\OneDrive\Dokumente\Studium\Files\AppQuest\_workspace\Afraid_Horses_Studio\CoinCollector\app\src\main\AndroidManifest.xml:15:9-42
 	tools:ignore
-		ADDED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml:16:9-48
+		ADDED from C:\Users\Simon\OneDrive\Dokumente\Studium\Files\AppQuest\_workspace\Afraid_Horses_Studio\CoinCollector\app\src\main\AndroidManifest.xml:16:9-48
 	android:roundIcon
-		ADDED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml:11:9-54
+		ADDED from C:\Users\Simon\OneDrive\Dokumente\Studium\Files\AppQuest\_workspace\Afraid_Horses_Studio\CoinCollector\app\src\main\AndroidManifest.xml:11:9-54
 	android:icon
-		ADDED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml:10:9-43
+		ADDED from C:\Users\Simon\OneDrive\Dokumente\Studium\Files\AppQuest\_workspace\Afraid_Horses_Studio\CoinCollector\app\src\main\AndroidManifest.xml:10:9-43
 	android:allowBackup
-		ADDED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml:9:9-35
+		ADDED from C:\Users\Simon\OneDrive\Dokumente\Studium\Files\AppQuest\_workspace\Afraid_Horses_Studio\CoinCollector\app\src\main\AndroidManifest.xml:9:9-35
 	android:theme
-		ADDED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml:14:9-40
+		ADDED from C:\Users\Simon\OneDrive\Dokumente\Studium\Files\AppQuest\_workspace\Afraid_Horses_Studio\CoinCollector\app\src\main\AndroidManifest.xml:14:9-40
 activity#ch.hsr.appquest.coincollector.MainActivity
-ADDED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml:17:9-24:20
+ADDED from C:\Users\Simon\OneDrive\Dokumente\Studium\Files\AppQuest\_workspace\Afraid_Horses_Studio\CoinCollector\app\src\main\AndroidManifest.xml:17:9-24:20
 	android:label
-		ADDED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml:19:13-45
+		ADDED from C:\Users\Simon\OneDrive\Dokumente\Studium\Files\AppQuest\_workspace\Afraid_Horses_Studio\CoinCollector\app\src\main\AndroidManifest.xml:19:13-45
 	android:name
-		ADDED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml:18:13-41
+		ADDED from C:\Users\Simon\OneDrive\Dokumente\Studium\Files\AppQuest\_workspace\Afraid_Horses_Studio\CoinCollector\app\src\main\AndroidManifest.xml:18:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml:20:13-23:29
+ADDED from C:\Users\Simon\OneDrive\Dokumente\Studium\Files\AppQuest\_workspace\Afraid_Horses_Studio\CoinCollector\app\src\main\AndroidManifest.xml:20:13-23:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml:21:17-69
+ADDED from C:\Users\Simon\OneDrive\Dokumente\Studium\Files\AppQuest\_workspace\Afraid_Horses_Studio\CoinCollector\app\src\main\AndroidManifest.xml:21:17-69
 	android:name
-		ADDED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml:21:25-66
+		ADDED from C:\Users\Simon\OneDrive\Dokumente\Studium\Files\AppQuest\_workspace\Afraid_Horses_Studio\CoinCollector\app\src\main\AndroidManifest.xml:21:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml:22:17-77
+ADDED from C:\Users\Simon\OneDrive\Dokumente\Studium\Files\AppQuest\_workspace\Afraid_Horses_Studio\CoinCollector\app\src\main\AndroidManifest.xml:22:17-77
 	android:name
-		ADDED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml:22:27-74
+		ADDED from C:\Users\Simon\OneDrive\Dokumente\Studium\Files\AppQuest\_workspace\Afraid_Horses_Studio\CoinCollector\app\src\main\AndroidManifest.xml:22:27-74
 uses-sdk
-INJECTED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml
-MERGED from [io.github.luizgrp.sectionedrecyclerviewadapter:sectionedrecyclerviewadapter:1.2.0] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\sectionedrecyclerviewadapter-1.2.0.aar\2471970d5ace73f9b37e80fd1663bf7a\AndroidManifest.xml:8:5-10:41
-MERGED from [io.github.luizgrp.sectionedrecyclerviewadapter:sectionedrecyclerviewadapter:1.2.0] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\sectionedrecyclerviewadapter-1.2.0.aar\2471970d5ace73f9b37e80fd1663bf7a\AndroidManifest.xml:8:5-10:41
-MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\cc11c5a791cc1404f9646cb0f514eb4c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\cc11c5a791cc1404f9646cb0f514eb4c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:27.1.0] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.0.aar\224f5a64e504faf6645ff79472e278c3\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:27.1.0] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.0.aar\224f5a64e504faf6645ff79472e278c3\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:percent:27.1.0] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\percent-27.1.0.aar\76bc0aa79668c40bc627e46009210c63\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:percent:27.1.0] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\percent-27.1.0.aar\76bc0aa79668c40bc627e46009210c63\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\c89cd7fa2cc8a9ef4e47f14a22a172db\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\c89cd7fa2cc8a9ef4e47f14a22a172db\AndroidManifest.xml:5:5-7:41
-MERGED from [org.altbeacon:android-beacon-library:2.15] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\a1002e9bd5ccdabfe571891e4dcfdaf6\AndroidManifest.xml:7:5-9:41
-MERGED from [org.altbeacon:android-beacon-library:2.15] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\a1002e9bd5ccdabfe571891e4dcfdaf6\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\9cde6190201db630f6dbdd3557a91c55\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\9cde6190201db630f6dbdd3557a91c55\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\587aea3f9c93115a43cd694160829387\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\587aea3f9c93115a43cd694160829387\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\42217a7f8f065e38c4c373b512ae9b1b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\42217a7f8f065e38c4c373b512ae9b1b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\a502b525c4dcbb7ac813f9f269db0492\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\a502b525c4dcbb7ac813f9f269db0492\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\2dad2e56b513fcf93d0668818f97d163\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\2dad2e56b513fcf93d0668818f97d163\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\4b9c855aaff09f381ea275ba003cff3c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\4b9c855aaff09f381ea275ba003cff3c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.0] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\aa72d4d2573a8cd2549b9aa87f9337fa\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.0] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\aa72d4d2573a8cd2549b9aa87f9337fa\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\4de236846156b7f39bc215e55039ec9b\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\4de236846156b7f39bc215e55039ec9b\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\262875afec2e8e2461f35daeca7121ad\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\262875afec2e8e2461f35daeca7121ad\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\1f8428ce19d865a66b8d35289f4049fb\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\1f8428ce19d865a66b8d35289f4049fb\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b798645d316f83137a342aeeb8867ade\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b798645d316f83137a342aeeb8867ade\AndroidManifest.xml:20:5-44
-INJECTED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Simon\OneDrive\Dokumente\Studium\Files\AppQuest\_workspace\Afraid_Horses_Studio\CoinCollector\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Simon\OneDrive\Dokumente\Studium\Files\AppQuest\_workspace\Afraid_Horses_Studio\CoinCollector\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Simon\OneDrive\Dokumente\Studium\Files\AppQuest\_workspace\Afraid_Horses_Studio\CoinCollector\app\src\main\AndroidManifest.xml
+MERGED from [io.github.luizgrp.sectionedrecyclerviewadapter:sectionedrecyclerviewadapter:1.2.0] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\sectionedrecyclerviewadapter-1.2.0.aar\577ee8c9857ed4b772972ba44d63c17b\AndroidManifest.xml:8:5-10:41
+MERGED from [io.github.luizgrp.sectionedrecyclerviewadapter:sectionedrecyclerviewadapter:1.2.0] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\sectionedrecyclerviewadapter-1.2.0.aar\577ee8c9857ed4b772972ba44d63c17b\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\17ed6d320c05f6038e6f5b844f2ebcec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\17ed6d320c05f6038e6f5b844f2ebcec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.0] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.0.aar\039ce376c1ebd0ad32b9c8ec8dd02b81\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.0] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.0.aar\039ce376c1ebd0ad32b9c8ec8dd02b81\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:percent:27.1.0] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\percent-27.1.0.aar\e0a8e60d1be96fa6a34a5bc62472139d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:percent:27.1.0] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\percent-27.1.0.aar\e0a8e60d1be96fa6a34a5bc62472139d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\3a3fa02984d601cb5b64597de81569e9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\3a3fa02984d601cb5b64597de81569e9\AndroidManifest.xml:5:5-7:41
+MERGED from [org.altbeacon:android-beacon-library:2.15] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\882adc3206fc436d5bde7cba7b2ac5d8\AndroidManifest.xml:7:5-9:41
+MERGED from [org.altbeacon:android-beacon-library:2.15] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\882adc3206fc436d5bde7cba7b2ac5d8\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\a346e3ee87eaa83d26c2cd733a2118d3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\a346e3ee87eaa83d26c2cd733a2118d3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\99f1dea71e4930e9d3d8f795518998db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\99f1dea71e4930e9d3d8f795518998db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\7a699348ba4b8a704b6e14557a0cfdf5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\7a699348ba4b8a704b6e14557a0cfdf5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\dd958da9c1c6ecd73f734394fdbfd234\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\dd958da9c1c6ecd73f734394fdbfd234\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\4901b3d9cee1f1517e9f186d0a10bcd6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\4901b3d9cee1f1517e9f186d0a10bcd6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\60c5116b686e7cf180a0a0c31df9af9c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\60c5116b686e7cf180a0a0c31df9af9c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\0a2631198dca3db36bfa8521db52a451\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\0a2631198dca3db36bfa8521db52a451\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\6f32357f45d0a375d07da0a74eca1bd2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\6f32357f45d0a375d07da0a74eca1bd2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\88a9e75c721c630ae212cb9f278a73d8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\88a9e75c721c630ae212cb9f278a73d8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6ea66f24a37478b2bef05e841d7602d0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6ea66f24a37478b2bef05e841d7602d0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f35852cd65cef33ad5bce1f0f3bdf59e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f35852cd65cef33ad5bce1f0f3bdf59e\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Simon\OneDrive\Dokumente\Studium\Files\AppQuest\_workspace\Afraid_Horses_Studio\CoinCollector\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Simon\OneDrive\Dokumente\Studium\Files\AppQuest\_workspace\Afraid_Horses_Studio\CoinCollector\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Simon\OneDrive\Dokumente\Studium\Files\AppQuest\_workspace\Afraid_Horses_Studio\CoinCollector\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Simon\OneDrive\Dokumente\Studium\Files\AppQuest\_workspace\Afraid_Horses_Studio\CoinCollector\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Simon\OneDrive\Dokumente\Studium\Files\AppQuest\_workspace\Afraid_Horses_Studio\CoinCollector\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Simon\OneDrive\Dokumente\Studium\Files\AppQuest\_workspace\Afraid_Horses_Studio\CoinCollector\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Simon\OneDrive\Dokumente\Studium\Files\AppQuest\_workspace\Afraid_Horses_Studio\CoinCollector\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Simon\OneDrive\Dokumente\Studium\Files\AppQuest\_workspace\Afraid_Horses_Studio\CoinCollector\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.BLUETOOTH
-ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\a1002e9bd5ccdabfe571891e4dcfdaf6\AndroidManifest.xml:11:5-13:36
+ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\882adc3206fc436d5bde7cba7b2ac5d8\AndroidManifest.xml:11:5-13:36
 	android:required
-		ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\a1002e9bd5ccdabfe571891e4dcfdaf6\AndroidManifest.xml:13:9-33
+		ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\882adc3206fc436d5bde7cba7b2ac5d8\AndroidManifest.xml:13:9-33
 	android:name
-		ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\a1002e9bd5ccdabfe571891e4dcfdaf6\AndroidManifest.xml:12:9-52
+		ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\882adc3206fc436d5bde7cba7b2ac5d8\AndroidManifest.xml:12:9-52
 uses-permission#android.permission.BLUETOOTH_ADMIN
-ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\a1002e9bd5ccdabfe571891e4dcfdaf6\AndroidManifest.xml:14:5-16:36
+ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\882adc3206fc436d5bde7cba7b2ac5d8\AndroidManifest.xml:14:5-16:36
 	android:required
-		ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\a1002e9bd5ccdabfe571891e4dcfdaf6\AndroidManifest.xml:16:9-33
+		ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\882adc3206fc436d5bde7cba7b2ac5d8\AndroidManifest.xml:16:9-33
 	android:name
-		ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\a1002e9bd5ccdabfe571891e4dcfdaf6\AndroidManifest.xml:15:9-58
+		ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\882adc3206fc436d5bde7cba7b2ac5d8\AndroidManifest.xml:15:9-58
 uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
-ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\a1002e9bd5ccdabfe571891e4dcfdaf6\AndroidManifest.xml:17:5-81
+ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\882adc3206fc436d5bde7cba7b2ac5d8\AndroidManifest.xml:17:5-81
 	android:name
-		ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\a1002e9bd5ccdabfe571891e4dcfdaf6\AndroidManifest.xml:17:22-78
+		ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\882adc3206fc436d5bde7cba7b2ac5d8\AndroidManifest.xml:17:22-78
 receiver#org.altbeacon.beacon.startup.StartupBroadcastReceiver
-ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\a1002e9bd5ccdabfe571891e4dcfdaf6\AndroidManifest.xml:21:9-27:20
+ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\882adc3206fc436d5bde7cba7b2ac5d8\AndroidManifest.xml:21:9-27:20
 	android:name
-		ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\a1002e9bd5ccdabfe571891e4dcfdaf6\AndroidManifest.xml:21:19-87
+		ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\882adc3206fc436d5bde7cba7b2ac5d8\AndroidManifest.xml:21:19-87
 intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED+action:name:android.intent.action.BOOT_COMPLETED
-ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\a1002e9bd5ccdabfe571891e4dcfdaf6\AndroidManifest.xml:22:13-26:29
+ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\882adc3206fc436d5bde7cba7b2ac5d8\AndroidManifest.xml:22:13-26:29
 action#android.intent.action.BOOT_COMPLETED
-ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\a1002e9bd5ccdabfe571891e4dcfdaf6\AndroidManifest.xml:23:17-79
+ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\882adc3206fc436d5bde7cba7b2ac5d8\AndroidManifest.xml:23:17-79
 	android:name
-		ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\a1002e9bd5ccdabfe571891e4dcfdaf6\AndroidManifest.xml:23:25-76
+		ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\882adc3206fc436d5bde7cba7b2ac5d8\AndroidManifest.xml:23:25-76
 action#android.intent.action.ACTION_POWER_CONNECTED
-ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\a1002e9bd5ccdabfe571891e4dcfdaf6\AndroidManifest.xml:24:17-87
+ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\882adc3206fc436d5bde7cba7b2ac5d8\AndroidManifest.xml:24:17-87
 	android:name
-		ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\a1002e9bd5ccdabfe571891e4dcfdaf6\AndroidManifest.xml:24:25-84
+		ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\882adc3206fc436d5bde7cba7b2ac5d8\AndroidManifest.xml:24:25-84
 action#android.intent.action.ACTION_POWER_DISCONNECTED
-ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\a1002e9bd5ccdabfe571891e4dcfdaf6\AndroidManifest.xml:25:17-90
+ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\882adc3206fc436d5bde7cba7b2ac5d8\AndroidManifest.xml:25:17-90
 	android:name
-		ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\a1002e9bd5ccdabfe571891e4dcfdaf6\AndroidManifest.xml:25:25-87
+		ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\882adc3206fc436d5bde7cba7b2ac5d8\AndroidManifest.xml:25:25-87
 service#org.altbeacon.beacon.service.BeaconService
-ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\a1002e9bd5ccdabfe571891e4dcfdaf6\AndroidManifest.xml:29:9-34:38
+ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\882adc3206fc436d5bde7cba7b2ac5d8\AndroidManifest.xml:29:9-34:38
 	android:enabled
-		ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\a1002e9bd5ccdabfe571891e4dcfdaf6\AndroidManifest.xml:31:13-35
+		ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\882adc3206fc436d5bde7cba7b2ac5d8\AndroidManifest.xml:31:13-35
 	android:label
-		ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\a1002e9bd5ccdabfe571891e4dcfdaf6\AndroidManifest.xml:34:13-35
+		ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\882adc3206fc436d5bde7cba7b2ac5d8\AndroidManifest.xml:34:13-35
 	android:exported
-		ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\a1002e9bd5ccdabfe571891e4dcfdaf6\AndroidManifest.xml:32:13-37
+		ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\882adc3206fc436d5bde7cba7b2ac5d8\AndroidManifest.xml:32:13-37
 	android:isolatedProcess
-		ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\a1002e9bd5ccdabfe571891e4dcfdaf6\AndroidManifest.xml:33:13-44
+		ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\882adc3206fc436d5bde7cba7b2ac5d8\AndroidManifest.xml:33:13-44
 	android:name
-		ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\a1002e9bd5ccdabfe571891e4dcfdaf6\AndroidManifest.xml:30:13-70
+		ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\882adc3206fc436d5bde7cba7b2ac5d8\AndroidManifest.xml:30:13-70
 service#org.altbeacon.beacon.BeaconIntentProcessor
-ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\a1002e9bd5ccdabfe571891e4dcfdaf6\AndroidManifest.xml:35:9-38:40
+ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\882adc3206fc436d5bde7cba7b2ac5d8\AndroidManifest.xml:35:9-38:40
 	android:enabled
-		ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\a1002e9bd5ccdabfe571891e4dcfdaf6\AndroidManifest.xml:37:13-35
+		ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\882adc3206fc436d5bde7cba7b2ac5d8\AndroidManifest.xml:37:13-35
 	android:exported
-		ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\a1002e9bd5ccdabfe571891e4dcfdaf6\AndroidManifest.xml:38:13-37
+		ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\882adc3206fc436d5bde7cba7b2ac5d8\AndroidManifest.xml:38:13-37
 	android:name
-		ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\a1002e9bd5ccdabfe571891e4dcfdaf6\AndroidManifest.xml:36:13-70
+		ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\882adc3206fc436d5bde7cba7b2ac5d8\AndroidManifest.xml:36:13-70
 service#org.altbeacon.beacon.service.ScanJob
-ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\a1002e9bd5ccdabfe571891e4dcfdaf6\AndroidManifest.xml:39:9-48:19
+ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\882adc3206fc436d5bde7cba7b2ac5d8\AndroidManifest.xml:39:9-48:19
 	android:permission
-		ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\a1002e9bd5ccdabfe571891e4dcfdaf6\AndroidManifest.xml:41:13-69
+		ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\882adc3206fc436d5bde7cba7b2ac5d8\AndroidManifest.xml:41:13-69
 	android:name
-		ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\a1002e9bd5ccdabfe571891e4dcfdaf6\AndroidManifest.xml:40:13-64
+		ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\882adc3206fc436d5bde7cba7b2ac5d8\AndroidManifest.xml:40:13-64
 meta-data#immediateScanJobId
-ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\a1002e9bd5ccdabfe571891e4dcfdaf6\AndroidManifest.xml:42:13-44:45
+ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\882adc3206fc436d5bde7cba7b2ac5d8\AndroidManifest.xml:42:13-44:45
 	android:value
-		ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\a1002e9bd5ccdabfe571891e4dcfdaf6\AndroidManifest.xml:44:17-42
+		ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\882adc3206fc436d5bde7cba7b2ac5d8\AndroidManifest.xml:44:17-42
 	android:name
-		ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\a1002e9bd5ccdabfe571891e4dcfdaf6\AndroidManifest.xml:43:17-50
+		ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\882adc3206fc436d5bde7cba7b2ac5d8\AndroidManifest.xml:43:17-50
 meta-data#periodicScanJobId
-ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\a1002e9bd5ccdabfe571891e4dcfdaf6\AndroidManifest.xml:45:13-47:45
+ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\882adc3206fc436d5bde7cba7b2ac5d8\AndroidManifest.xml:45:13-47:45
 	android:value
-		ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\a1002e9bd5ccdabfe571891e4dcfdaf6\AndroidManifest.xml:47:17-42
+		ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\882adc3206fc436d5bde7cba7b2ac5d8\AndroidManifest.xml:47:17-42
 	android:name
-		ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\a1002e9bd5ccdabfe571891e4dcfdaf6\AndroidManifest.xml:46:17-49
+		ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\882adc3206fc436d5bde7cba7b2ac5d8\AndroidManifest.xml:46:17-49
 service#org.altbeacon.bluetooth.BluetoothTestJob
-ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\a1002e9bd5ccdabfe571891e4dcfdaf6\AndroidManifest.xml:49:9-55:19
+ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\882adc3206fc436d5bde7cba7b2ac5d8\AndroidManifest.xml:49:9-55:19
 	android:permission
-		ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\a1002e9bd5ccdabfe571891e4dcfdaf6\AndroidManifest.xml:51:13-69
+		ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\882adc3206fc436d5bde7cba7b2ac5d8\AndroidManifest.xml:51:13-69
 	android:name
-		ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\a1002e9bd5ccdabfe571891e4dcfdaf6\AndroidManifest.xml:50:13-68
+		ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\882adc3206fc436d5bde7cba7b2ac5d8\AndroidManifest.xml:50:13-68
 meta-data#jobId
-ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\a1002e9bd5ccdabfe571891e4dcfdaf6\AndroidManifest.xml:52:13-54:46
+ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\882adc3206fc436d5bde7cba7b2ac5d8\AndroidManifest.xml:52:13-54:46
 	android:value
-		ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\a1002e9bd5ccdabfe571891e4dcfdaf6\AndroidManifest.xml:54:17-43
+		ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\882adc3206fc436d5bde7cba7b2ac5d8\AndroidManifest.xml:54:17-43
 	android:name
-		ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\a1002e9bd5ccdabfe571891e4dcfdaf6\AndroidManifest.xml:53:17-37
+		ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\Simon\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\882adc3206fc436d5bde7cba7b2ac5d8\AndroidManifest.xml:53:17-37

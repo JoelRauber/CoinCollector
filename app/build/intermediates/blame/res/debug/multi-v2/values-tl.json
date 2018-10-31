@@ -1,10 +1,20 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\jor\\OneDrive - M&S\\Profil\\Desktop\\AppQuest\\CoinCollector\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-tl\\values-tl.xml",
+            "outputFile": "C:\\Users\\Simon\\OneDrive\\Dokumente\\Studium\\Files\\AppQuest\\_workspace\\Afraid_Horses_Studio\\CoinCollector\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-tl\\values-tl.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\jor\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\aa72d4d2573a8cd2549b9aa87f9337fa\\res\\values-tl\\values-tl.xml",
+                    "source": "C:\\Users\\Simon\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\17ed6d320c05f6038e6f5b844f2ebcec\\res\\values-tl\\values-tl.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,224,332,449,537,643,764,843,921,1005,1114,1225,1326,1436,1553,1661,1824,1926",
+                        "endColumns": "118,107,116,87,105,120,78,77,83,108,110,100,109,116,107,162,101,83",
+                        "endOffsets": "219,327,444,532,638,759,838,916,1000,1109,1220,1321,1431,1548,1656,1819,1921,2005"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Simon\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\0a2631198dca3db36bfa8521db52a451\\res\\values-tl\\values-tl.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -18,16 +28,6 @@
                         "startOffsets": "2010",
                         "endColumns": "100",
                         "endOffsets": "2106"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\jor\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\cc11c5a791cc1404f9646cb0f514eb4c\\res\\values-tl\\values-tl.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,224,332,449,537,643,764,843,921,1005,1114,1225,1326,1436,1553,1661,1824,1926",
-                        "endColumns": "118,107,116,87,105,120,78,77,83,108,110,100,109,116,107,162,101,83",
-                        "endOffsets": "219,327,444,532,638,759,838,916,1000,1109,1220,1321,1431,1548,1656,1819,1921,2005"
                     }
                 }
             ]

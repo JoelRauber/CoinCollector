@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\jor\\OneDrive - M&S\\Profil\\Desktop\\AppQuest\\CoinCollector\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-et\\values-et.xml",
+            "outputFile": "C:\\Users\\Simon\\OneDrive\\Dokumente\\Studium\\Files\\AppQuest\\_workspace\\Afraid_Horses_Studio\\CoinCollector\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-et\\values-et.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\jor\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\aa72d4d2573a8cd2549b9aa87f9337fa\\res\\values-et\\values-et.xml",
+                    "source": "C:\\Users\\Simon\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\0a2631198dca3db36bfa8521db52a451\\res\\values-et\\values-et.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\jor\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\cc11c5a791cc1404f9646cb0f514eb4c\\res\\values-et\\values-et.xml",
+                    "source": "C:\\Users\\Simon\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\17ed6d320c05f6038e6f5b844f2ebcec\\res\\values-et\\values-et.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
