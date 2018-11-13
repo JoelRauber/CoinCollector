@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\jor\\OneDrive - M&S\\Profil\\Desktop\\AppQuest\\CoinCollector\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rTW\\values-zh-rTW.xml",
+            "outputFile": "C:\\Users\\jor\\AndroidStudioProjects\\CoinCollector\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rTW\\values-zh-rTW.xml",
             "map": [
                 {
                     "source": "C:\\Users\\jor\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\aa72d4d2573a8cd2549b9aa87f9337fa\\res\\values-zh-rTW\\values-zh-rTW.xml",

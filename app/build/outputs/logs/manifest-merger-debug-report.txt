@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml:2:1-27:12
+ADDED from C:\Users\jor\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\jor\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\jor\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\jor\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml:2:1-27:12
 MERGED from [io.github.luizgrp.sectionedrecyclerviewadapter:sectionedrecyclerviewadapter:1.2.0] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\sectionedrecyclerviewadapter-1.2.0.aar\2471970d5ace73f9b37e80fd1663bf7a\AndroidManifest.xml:2:1-15:12
 MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\cc11c5a791cc1404f9646cb0f514eb4c\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:cardview-v7:27.1.0] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.0.aar\224f5a64e504faf6645ff79472e278c3\AndroidManifest.xml:17:1-22:12
@@ -21,33 +21,33 @@ MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\jor\.gradle\ca
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\262875afec2e8e2461f35daeca7121ad\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\1f8428ce19d865a66b8d35289f4049fb\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.0] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b798645d316f83137a342aeeb8867ade\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\jor\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\jor\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\jor\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml:2:1-27:12
 	package
-		ADDED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml:4:5-44
-		INJECTED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jor\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml:4:5-44
+		INJECTED from C:\Users\jor\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jor\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml:2:1-27:12
-		INJECTED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jor\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jor\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\Users\jor\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml:3:5-51
+		ADDED from C:\Users\jor\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml:2:1-27:12
-		INJECTED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jor\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jor\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\Users\jor\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\jor\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml:6:5-81
+ADDED from C:\Users\jor\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml:6:5-81
 MERGED from [org.altbeacon:android-beacon-library:2.15] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\a1002e9bd5ccdabfe571891e4dcfdaf6\AndroidManifest.xml:18:5-81
 MERGED from [org.altbeacon:android-beacon-library:2.15] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\a1002e9bd5ccdabfe571891e4dcfdaf6\AndroidManifest.xml:18:5-81
 	android:name
-		ADDED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml:6:22-78
+		ADDED from C:\Users\jor\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml:6:22-78
 application
-ADDED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml:8:5-25:19
+ADDED from C:\Users\jor\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml:8:5-25:19
 MERGED from [io.github.luizgrp.sectionedrecyclerviewadapter:sectionedrecyclerviewadapter:1.2.0] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\sectionedrecyclerviewadapter-1.2.0.aar\2471970d5ace73f9b37e80fd1663bf7a\AndroidManifest.xml:12:5-13:19
 MERGED from [io.github.luizgrp.sectionedrecyclerviewadapter:sectionedrecyclerviewadapter:1.2.0] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\sectionedrecyclerviewadapter-1.2.0.aar\2471970d5ace73f9b37e80fd1663bf7a\AndroidManifest.xml:12:5-13:19
 MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\c89cd7fa2cc8a9ef4e47f14a22a172db\AndroidManifest.xml:9:5-20
@@ -55,41 +55,41 @@ MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\jo
 MERGED from [org.altbeacon:android-beacon-library:2.15] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\a1002e9bd5ccdabfe571891e4dcfdaf6\AndroidManifest.xml:20:5-56:19
 MERGED from [org.altbeacon:android-beacon-library:2.15] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\a1002e9bd5ccdabfe571891e4dcfdaf6\AndroidManifest.xml:20:5-56:19
 	android:supportsRtl
-		ADDED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml:13:9-35
+		ADDED from C:\Users\jor\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml:13:9-35
 	android:label
-		ADDED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml:12:9-41
+		ADDED from C:\Users\jor\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml:12:9-41
 	android:fullBackupContent
-		ADDED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml:15:9-42
+		ADDED from C:\Users\jor\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml:15:9-42
 	tools:ignore
-		ADDED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml:16:9-48
+		ADDED from C:\Users\jor\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml:16:9-48
 	android:roundIcon
-		ADDED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml:11:9-54
+		ADDED from C:\Users\jor\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml:11:9-54
 	android:icon
-		ADDED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml:10:9-43
+		ADDED from C:\Users\jor\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml:10:9-43
 	android:allowBackup
-		ADDED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml:9:9-35
+		ADDED from C:\Users\jor\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml:9:9-35
 	android:theme
-		ADDED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml:14:9-40
+		ADDED from C:\Users\jor\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml:14:9-40
 activity#ch.hsr.appquest.coincollector.MainActivity
-ADDED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml:17:9-24:20
+ADDED from C:\Users\jor\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml:17:9-24:20
 	android:label
-		ADDED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml:19:13-45
+		ADDED from C:\Users\jor\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml:19:13-45
 	android:name
-		ADDED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml:18:13-41
+		ADDED from C:\Users\jor\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml:18:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml:20:13-23:29
+ADDED from C:\Users\jor\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml:20:13-23:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml:21:17-69
+ADDED from C:\Users\jor\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml:21:17-69
 	android:name
-		ADDED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml:21:25-66
+		ADDED from C:\Users\jor\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml:21:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml:22:17-77
+ADDED from C:\Users\jor\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml:22:17-77
 	android:name
-		ADDED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml:22:27-74
+		ADDED from C:\Users\jor\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml:22:27-74
 uses-sdk
-INJECTED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\jor\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\jor\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\jor\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml
 MERGED from [io.github.luizgrp.sectionedrecyclerviewadapter:sectionedrecyclerviewadapter:1.2.0] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\sectionedrecyclerviewadapter-1.2.0.aar\2471970d5ace73f9b37e80fd1663bf7a\AndroidManifest.xml:8:5-10:41
 MERGED from [io.github.luizgrp.sectionedrecyclerviewadapter:sectionedrecyclerviewadapter:1.2.0] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\sectionedrecyclerviewadapter-1.2.0.aar\2471970d5ace73f9b37e80fd1663bf7a\AndroidManifest.xml:8:5-10:41
 MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\cc11c5a791cc1404f9646cb0f514eb4c\AndroidManifest.xml:20:5-44
@@ -124,16 +124,16 @@ MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\jor\.gradle\caches\t
 MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\1f8428ce19d865a66b8d35289f4049fb\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.0] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b798645d316f83137a342aeeb8867ade\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.0] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b798645d316f83137a342aeeb8867ade\AndroidManifest.xml:20:5-44
-INJECTED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\jor\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\jor\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jor\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jor\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jor\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\jor\OneDrive - M&S\Profil\Desktop\AppQuest\CoinCollector\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jor\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jor\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jor\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.BLUETOOTH
 ADDED from [org.altbeacon:android-beacon-library:2.15] C:\Users\jor\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.15.aar\a1002e9bd5ccdabfe571891e4dcfdaf6\AndroidManifest.xml:11:5-13:36
 	android:required

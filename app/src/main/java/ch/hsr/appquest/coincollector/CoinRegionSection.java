@@ -33,8 +33,22 @@ public class CoinRegionSection extends StatelessSection {
 
     @Override
     public void onBindItemViewHolder(RecyclerView.ViewHolder holder, int position) {
-        RecyclerView.ViewHolder coinItemViewHolder =  holder;
+        CoinItemViewHolder coinItemViewHolder = (CoinItemViewHolder) holder;
 
+        switch(coinRegion.getRegionName()){
+            case "lakeside": coinItemViewHolder.getCoinImageView().setImageResource(R.drawable.lakeside_coin);
+            break;
+            case "island": coinItemViewHolder.getCoinImageView().setImageResource(R.drawable.island_coin);
+            break;
+            case "cafeteria": coinItemViewHolder.getCoinImageView().setImageResource(R.drawable.cafeteria_coin);
+            break;
+            case "bicyclestand": coinItemViewHolder.getCoinImageView().setImageResource(R.drawable.bicyclestand_coin);
+            break;
+            case "researchbuilding": coinItemViewHolder.getCoinImageView().setImageResource(R.drawable.researchbuilding_coin);
+            break;
+            default: coinItemViewHolder.getCoinImageView().setImageResource(R.drawable.sample_coin);
+            break;
+        }
     }
 
     @Override

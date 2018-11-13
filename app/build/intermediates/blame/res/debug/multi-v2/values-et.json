@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\jor\\OneDrive - M&S\\Profil\\Desktop\\AppQuest\\CoinCollector\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-et\\values-et.xml",
+            "outputFile": "C:\\Users\\jor\\AndroidStudioProjects\\CoinCollector\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-et\\values-et.xml",
             "map": [
                 {
                     "source": "C:\\Users\\jor\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\aa72d4d2573a8cd2549b9aa87f9337fa\\res\\values-et\\values-et.xml",

@@ -1,16 +1,16 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\jor\\OneDrive - M&S\\Profil\\Desktop\\AppQuest\\CoinCollector\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\jor\\AndroidStudioProjects\\CoinCollector\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\jor\\OneDrive - M&S\\Profil\\Desktop\\AppQuest\\CoinCollector\\app\\src\\main\\res\\values\\ic_launcher_background.xml",
+                    "source": "C:\\Users\\jor\\AndroidStudioProjects\\CoinCollector\\app\\src\\main\\res\\values\\ic_launcher_background.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
-                        "startOffsets": "55",
+                        "startOffsets": "57",
                         "endColumns": "56",
-                        "endOffsets": "107"
+                        "endOffsets": "109"
                     },
                     "to": {
                         "startLines": "171",
@@ -21,14 +21,14 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\jor\\OneDrive - M&S\\Profil\\Desktop\\AppQuest\\CoinCollector\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "C:\\Users\\jor\\AndroidStudioProjects\\CoinCollector\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "3",
                         "startColumns": "4",
-                        "startOffsets": "54",
+                        "startOffsets": "57",
                         "endLines": "8",
                         "endColumns": "12",
-                        "endOffsets": "368"
+                        "endOffsets": "376"
                     },
                     "to": {
                         "startLines": "652",
@@ -59,20 +59,20 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\jor\\OneDrive - M&S\\Profil\\Desktop\\AppQuest\\CoinCollector\\app\\src\\main\\res\\values\\colors.xml",
+                    "source": "C:\\Users\\jor\\AndroidStudioProjects\\CoinCollector\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
-                        "startLines": "2,7,5,6,4,3",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "55,291,193,240,135,95",
-                        "endColumns": "39,45,46,50,57,39",
-                        "endOffsets": "90,332,235,286,188,130"
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endColumns": "50",
+                        "endOffsets": "63"
                     },
                     "to": {
-                        "startLines": "146,159,160,161,200,207",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "7158,8088,8134,8181,10707,11172",
-                        "endColumns": "39,45,46,50,57,39",
-                        "endOffsets": "7193,8129,8176,8227,10760,11207"
+                        "startLines": "644",
+                        "startColumns": "4",
+                        "startOffsets": "56123",
+                        "endColumns": "50",
+                        "endOffsets": "56169"
                     }
                 },
                 {
@@ -148,6 +148,23 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\jor\\AndroidStudioProjects\\CoinCollector\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "2,7,5,6,4,3",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "57,298,198,246,139,98",
+                        "endColumns": "39,45,46,50,57,39",
+                        "endOffsets": "92,339,240,292,192,133"
+                    },
+                    "to": {
+                        "startLines": "146,159,160,161,200,207",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "7158,8088,8134,8181,10707,11172",
+                        "endColumns": "39,45,46,50,57,39",
+                        "endOffsets": "7193,8129,8176,8227,10760,11207"
+                    }
+                },
+                {
                     "source": "C:\\Users\\jor\\.gradle\\caches\\transforms-1\\files-1.1\\cardview-v7-27.1.0.aar\\224f5a64e504faf6645ff79472e278c3\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,18,20,23",
@@ -183,23 +200,6 @@
                         "endLines": "184,185,360,364,549,550,551,552,553,569,570,571,572,573,574,575,576,577,578,579,580,581,582,583,592,593,600,601,605,606,607,608,614,646,1971,1975,1976,1980,1981,2118,2119",
                         "endColumns": "68,62,35,207,69,67,71,69,60,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,34,34,49,33,34,34,69,70,116,12,109,12,128,71,66",
                         "endOffsets": "9640,9703,33530,33895,49963,50031,50103,50173,50234,51465,51526,51588,51652,51714,51775,51843,51943,52003,52069,52142,52211,52268,52320,52382,52907,52983,53323,53358,53550,53584,53619,53654,53999,56293,144342,144543,144653,144854,144983,155881,155948"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\jor\\OneDrive - M&S\\Profil\\Desktop\\AppQuest\\CoinCollector\\app\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "16",
-                        "endColumns": "50",
-                        "endOffsets": "62"
-                    },
-                    "to": {
-                        "startLines": "644",
-                        "startColumns": "4",
-                        "startOffsets": "56123",
-                        "endColumns": "50",
-                        "endOffsets": "56169"
                     }
                 }
             ]

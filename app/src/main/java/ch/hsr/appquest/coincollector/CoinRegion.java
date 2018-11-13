@@ -1,5 +1,8 @@
 package ch.hsr.appquest.coincollector;
 
+import android.util.Log;
+
+import java.io.Console;
 import java.util.List;
 
 public class CoinRegion {
@@ -36,7 +39,6 @@ public class CoinRegion {
     }
 
     public String getRegionName() {
-        // TODO: Gib anhand des Identifiers den richtigen Regions-Namen zurück. Dieser wird dann im passenden Section-Header der SectionedRecyclerView angezeigt.
         return String.valueOf(getIdentifier());
     }
 
