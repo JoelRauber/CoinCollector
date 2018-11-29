@@ -48,43 +48,26 @@ public class MainActivity extends AppCompatActivity implements BeaconConsumer {
         setupCoinManager();
         setupSectionedRecyclerView();
         setupNotificationUtil();
-
-        if(Build.VERSION.SDK_INT >= Build.VERSION_CODES.M){
-            if(this.checkSelfPermission(Manifest.permission.ACCESS_COARSE_LOCATION) != PackageManager.PERMISSION_GRANTED){
-                final AlertDialog.Builder builder = new AlertDialog.Builder(this);
-                builder.setTitle("This app needs location access");
-                builder.setMessage("Please grant location access so this app can detect beacons");
-                builder.setPositiveButton(android.R.string.ok, null);
-                builder.setOnDismissListener(dialog -> requestPermissions(new String[]{Manifest.permission.ACCESS_COARSE_LOCATION}, REQUEST_COARSE_LOCATION));
-                builder.show();
-            }
-        }
     }
 
     @Override
     public void onRequestPermissionsResult(int requestCode,
                                            String permissions[], int[] grantResults) {
-        switch (requestCode) {
-            case REQUEST_COARSE_LOCATION: {
-                if (grantResults[0] == PackageManager.PERMISSION_GRANTED) {
-                    Log.d(TAG, "coarse location permission granted");
-                } else {
-                    final AlertDialog.Builder builder = new AlertDialog.Builder(this);
-                    builder.setTitle("Functionality limited");
-                    builder.setMessage("Since location access has not been granted, this app will not be able to discover beacons when in the background.");
-                    builder.setPositiveButton(android.R.string.ok, null);
-                    builder.setOnDismissListener(dialog -> { //TODO falls dismiss was machen?
-                    });
-                    builder.show();
-                }
-                return;
+        if (requestCode == REQUEST_COARSE_LOCATION) {
+            if (grantResults[0] == PackageManager.PERMISSION_GRANTED) {
+                beaconManager.bind(this);
             }
         }
     }
 
     private void setupBeaconManager() {
         beaconManager = BeaconManager.getInstanceForApplication(this);
-        beaconManager.bind(this);
+        beaconManager.getBeaconParsers().add(new BeaconParser().setBeaconLayout(beaconLayout));
+        if (checkSelfPermission(Manifest.permission.ACCESS_COARSE_LOCATION) != PackageManager.PERMISSION_GRANTED) {
+            requestPermissions(new String[]{Manifest.permission.ACCESS_COARSE_LOCATION}, REQUEST_COARSE_LOCATION);
+        } else {
+            beaconManager.bind(this);
+        }
     }
 
     private void setupCoinManager() { coinManager = new CoinManager(this); }
@@ -125,7 +108,6 @@ public class MainActivity extends AppCompatActivity implements BeaconConsumer {
         MenuItem menuItem = menu.add("Reset");
         menuItem.setShowAsAction(MenuItem.SHOW_AS_ACTION_IF_ROOM);
         menuItem.setOnMenuItemClickListener(item -> {
-            coinManager.getCoins();
             sectionAdapter.removeAllSections();
             coinManager.reset();
             addCoinRegionSections();
@@ -145,7 +127,7 @@ public class MainActivity extends AppCompatActivity implements BeaconConsumer {
     public void onBeaconServiceConnect() {
         beaconManager.addRangeNotifier((beacons, region) -> {
             if (beacons.size() > 0) {
-                Log.i(TAG, "The first beacon I see is about "+beacons.iterator().next().getDistance()+" meters away.");
+                // TODO: Hier musst du über alle Beacons iterieren und diese collecten
             }
         });
 
@@ -174,6 +156,11 @@ public class MainActivity extends AppCompatActivity implements BeaconConsumer {
 
     private void updateCoin(int major, int minor) {
         // TODO: Setze die Minor Nummer der gefundenen Münze und speichere das Ergebnis. Danach muss man auch noch die SectionedRecyclerView neu laden.
+        // TODO: --> coinManager verwenden und über alle Coins, welche dieser zurückgibt, iterieren
+        // TODO: --> prüfen, ob coin.major == major und minor == 0
+        // TODO: --> coin minor setzen
+        // TODO: Änderung saven
+        // TODO: Den sectionAdapter notifyen
         // TODO (optional): Zeige dem User eine lokale Notification. Dazu kannst Du die Klasse NotificationUtil verwenden.
     }
 
