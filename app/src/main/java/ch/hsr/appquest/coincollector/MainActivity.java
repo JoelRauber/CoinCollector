@@ -92,7 +92,7 @@ public class MainActivity extends AppCompatActivity implements BeaconConsumer {
 
             @Override
             public void onStartFailure(int errorCode) {
-                Log.e(TAG, "Advertisement start failed with code: "+errorCode);
+                Log.e(TAG, "Advertisement start failed with code: "+ errorCode);
             }
 
             @Override
@@ -156,14 +156,20 @@ public class MainActivity extends AppCompatActivity implements BeaconConsumer {
         return true;
     }
 
+    public CoinManager sendActiveManager(){
+        return this.coinManager;
+    }
+
     @Override
     public void onBeaconServiceConnect() {
         Log.i(TAG, "TEST");
         beaconManager.addRangeNotifier((beacons, region) -> {
             if (beacons.size() > 0) {
                 // TODO: Hier musst du über alle Beacons iterieren und diese collecten
-                Log.i(TAG, "The first beacon I see is about " + beacons.iterator().next().getDistance() + " meters away.");
-                collectBeacon(beacons.iterator().next());
+
+                for(Beacon beacon : beacons){
+                    collectBeacon(beacon);
+                }
             }
         });
 
@@ -180,7 +186,7 @@ public class MainActivity extends AppCompatActivity implements BeaconConsumer {
 
     private void addCoinRegionSections() {
         for (CoinRegion coinRegion : coinManager.getCoinRegions()) {
-            sectionAdapter.addSection(new CoinRegionSection(coinRegion, this));
+            sectionAdapter.addSection(new CoinRegionSection(coinRegion, this, this.coinManager));
         }
     }
 
@@ -191,6 +197,7 @@ public class MainActivity extends AppCompatActivity implements BeaconConsumer {
     }
 
     private void updateCoin(int major, int minor) {
+
         // TODO: Setze die Minor Nummer der gefundenen Münze und speichere das Ergebnis. Danach muss man auch noch die SectionedRecyclerView neu laden.
         // TODO: --> coinManager verwenden und über alle Coins, welche dieser zurückgibt, iterieren
         // TODO: --> prüfen, ob coin.major == major und minor == 0
@@ -198,26 +205,18 @@ public class MainActivity extends AppCompatActivity implements BeaconConsumer {
         // TODO: Änderung saven
         // TODO: Den sectionAdapter notifyen
         // TODO (optional): Zeige dem User eine lokale Notification. Dazu kannst Du die Klasse NotificationUtil verwenden.
-        Coin[] coinsList = (Coin[]) coinManager.getCoins().toArray();
 
-        switch(major){
-            case 1: coinsList[0].setMinor(minor);
-            case 2: coinsList[1].setMinor(minor);
-            case 3: coinsList[2].setMinor(minor);
-            case 4: coinsList[3].setMinor(minor);
-            case 5: coinsList[4].setMinor(minor);
-            case 6: coinsList[5].setMinor(minor);
-            case 7: coinsList[6].setMinor(minor);
-            case 8: coinsList[7].setMinor(minor);
-            case 9: coinsList[8].setMinor(minor);
-            case 10: coinsList[9].setMinor(minor);
-            case 11: coinsList[10].setMinor(minor);
-            case 12: coinsList[11].setMinor(minor);
-            case 13: coinsList[12].setMinor(minor);
-            case 14: coinsList[13].setMinor(minor);
-            case 15: coinsList[14].setMinor(minor);
+        List<Coin> coins = coinManager.getCoins();
+
+        for (Coin coin: coins){
+            if(coin.getMajor() == major){
+                Log.i(TAG, "Minor = " + minor);
+                coin.setMinor(minor);
+                coinManager.save();
+            }
         }
-        coinManager.save();
+        sendActiveManager();
+        sectionAdapter.notify();
     }
 
 }
